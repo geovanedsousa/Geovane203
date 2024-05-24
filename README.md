@@ -1,6 +1,6 @@
-- 👋 Olá, sou Geovane, tenho 16 anos.
+- 👋 Olá, sou Geovane
 - 👀 Estou começando na programação
-- 🌱 Atualmente estou aprendendo, lógica e algoritmo 
+- 🌱 Atualmente estou aprendendo, HTML-CSS e JS
 
 <!---
 Geovane203/Geovane203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
